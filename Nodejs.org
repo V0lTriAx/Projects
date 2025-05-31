@@ -1,0 +1,4 @@
+mkdir my-app && cd my-app
+npm init -y
+echo "console.log('Hello Node!');" > app.js
+node app.js
