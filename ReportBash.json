@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# File: system_report.sh
+# Description: Generates a simple system information report
+
+REPORT="system_report_$(date +%Y%m%d_%H%M%S).txt"
+
+echo "Generating system report: $REPORT"
+echo "==============================" > "$REPORT"
+echo "System Report - $(date)" >> "$REPORT"
+echo "==============================" >> "$REPORT"
+
+echo -e "\nHostname: $(hostname)" >> "$REPORT"
+echo -e "\nUptime:" >> "$REPORT"
+uptime >> "$REPORT"
+
+echo -e "\nMemory Usage:" >> "$REPORT"
+free -h >> "$REPORT"
+
+echo -e "\nDisk Usage:" >> "$REPORT"
+df -h >> "$REPORT"
+
+echo -e "\nTop Processes:" >> "$REPORT"
+ps -eo pid,comm,%mem,%cpu --sort=-%mem | head -n 10 >> "$REPORT"
+
+echo -e "\nNetwork Info:" >> "$REPORT"
+ip a >> "$REPORT"
+
+echo -e "\nReport saved to $REPORT"
+
+End.OfEnum(BashReport1;)
