@@ -1,0 +1,32 @@
+warn(game:GetService("AssetService"):GetBundleDetailsAsync(BUNDLE_ID_HERE))
+``` [citation:1]
+
+local anim = game:GetService("InsertService"):LoadAsset(YOUR_ID_HERE)
+anim.Parent = workspace
+``` [citation:1]anim.Parent
+
+warn(game:GetService("AssetService"):GetBundleDetailsAsync(BUNDLE_ID_HERE))
+``` [citation:1]local anim = game:GetService("InsertService"):LoadAsset(YOUR_ID_HERE)
+
+anim.Parent = workspace
+``` [citation:1]
+
+Local Animation = game.Getservice("InsertService"):GetLoadUnLopple(Asset+Id-)
+  Then
+       If_,PlayerClickButton(V)
+ Callback: Function(),
+    Anim.parentAll
+   IfThenClick:LoadUnloopleAssedId("InsertId").WorkspaceLoadId
+Paradise'
+
+   Then_,
+ LoadedAsset:_,))))()true,
+False, start.AnimParentStopLoad.
+
+Remotehookfucntion()_,
+  End,
+      End
+         End.
+       End
+      End
+   End....
