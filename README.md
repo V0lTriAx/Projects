@@ -48,17 +48,26 @@ A Bash script that generates a timestamped system report, including uptime, memo
 
 ---
 
-## GitHub Analytics
+## Workflows Github
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+I'm a beginner developer focused on scripting, automation, and building lightweight, functional tools. My main interests lie in languages like **Lua**, **Bash**, and **Python**, which I use to develop terminal-based utilities, simple games, and productivity tools.
 
+I enjoy learning by building, and every small project I create helps me understand programming concepts more deeply. Whether it's a game mechanic in Lua or a Bash script that generates system reports, I aim to write code that's simple, clear, and purposeful.
+
+I'm currently working on expanding my skills by:
+- Practicing Lua through game-like mini projects
+- Writing Bash utilities that solve real problems on Unix-based systems
+- Exploring version control and collaboration with Git and GitHub
+
+As I grow, I plan to contribute to open source, learn more about web development and DevOps tools, and build tools that others can use or improve.
+
+If you're also learning, feel free to connect or follow my projects here on GitHub.
 ---
 
 ## Contact
 
 If you are interested in collaborating or discussing projects, feel free to reach out.
 
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
-- Email: your.email@example.com
-- Portfolio (if applicable): [your-portfolio-link.com](http://your-portfolio-link.com)
+- GitHub: https://github.com/V0lTriAx
+- Email: tszexs@gmail.com (contact me)
+- Discord: v0ltriax (Username)
